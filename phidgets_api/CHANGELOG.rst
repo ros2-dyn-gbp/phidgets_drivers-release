@@ -2,6 +2,9 @@
 Changelog for package phidgets_api
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.3.3 (2024-03-13)
+------------------
+
 2.3.2 (2023-11-27)
 ------------------
 * added new parameters for spatial precision MOT0109 onwards
